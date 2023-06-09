@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body{
+  height: 100vh;
+  width: 100vw;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(4, 23, 58);
+}
+.app__row{
+  width: 100%;
+  display: flex;
+  padding-left: 50px;
+
+}
+h2{
+  margin: 5px;
+  color: gold;
+}

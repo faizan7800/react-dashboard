@@ -1,0 +1,33 @@
+
+.card__wrapper{
+    color: white;
+    background-color: rgb(6, 6, 44);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    border: none;
+    width: 400px;
+    align-items: center;
+    border-radius: 10px;
+}
+.card__wrapper hr{
+    color: darkgreen;
+    width: 100%;
+    margin-top: -1px;
+}
+.card__wrapper h3{
+    font-size: 20px;
+    margin-top: 10px;
+    color: gold;
+}
+.card__info{
+    position: relative;
+    left: 48%;
+}
+
+.card__wrapper ul li{
+    font-size: 14.7px;
+}
